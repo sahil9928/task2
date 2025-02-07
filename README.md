@@ -5,6 +5,7 @@ INTERN ID:CT08PNP
 DOMAIN:SQL
 DURATION:JANUARY 25TH,2025 TO FEBRUARY 25TH,2025.
 MENTOR:NEELA SANTHOSH KUMAR
+
 DESCRIPTION:The SQL queries provided above leverage Common Table Expressions (CTEs), window functions, and subqueries to conduct in-depth data analysis on sales and customer behavior. The goal is to generate a detailed report that highlights various trends and patterns, such as customer spending trends, top-performing products, and sales growth by product and customer.
 
 1. Customer Spending Trends (Past 12 Months)
